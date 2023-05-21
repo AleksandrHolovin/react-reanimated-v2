@@ -7,13 +7,14 @@ import {
   PinchGestureHandlerComponent,
   DoubleTapAnimate,
   ColorPicker,
+  CurcularProgressBar
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <ColorPicker />
+    <CurcularProgressBar />
   );
 }
 
