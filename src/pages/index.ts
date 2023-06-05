@@ -7,3 +7,4 @@ export * from './PinchGestureHandler/ PinchGestureHandler';
 export * from './DoubleTapAnimate/DoubleTapAnimate';
 export * from './ColorPicker/ColorPicker';
 export * from './CircularProgressBar/CircularProgressBar';
+export * from './SwipeToDelete/SwipeToDelete';

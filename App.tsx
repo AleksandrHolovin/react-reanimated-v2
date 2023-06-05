@@ -7,14 +7,15 @@ import {
   PinchGestureHandlerComponent,
   DoubleTapAnimate,
   ColorPicker,
-  CurcularProgressBar
+  CurcularProgressBar,
+  SwipeToDelete,
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <CurcularProgressBar />
+    <SwipeToDelete />
   );
 }
 
