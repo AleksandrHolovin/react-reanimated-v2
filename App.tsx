@@ -9,13 +9,14 @@ import {
   ColorPicker,
   CurcularProgressBar,
   SwipeToDelete,
+  RippleEffect,
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <SwipeToDelete />
+    <RippleEffect />
   );
 }
 

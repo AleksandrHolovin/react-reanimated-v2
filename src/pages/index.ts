@@ -8,3 +8,4 @@ export * from './DoubleTapAnimate/DoubleTapAnimate';
 export * from './ColorPicker/ColorPicker';
 export * from './CircularProgressBar/CircularProgressBar';
 export * from './SwipeToDelete/SwipeToDelete';
+export * from './RippleEffect/RippleEffect';
